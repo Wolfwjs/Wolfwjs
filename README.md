@@ -4,8 +4,8 @@
 
 [![Mail](https://img.shields.io/badge/-jswang@stu.pku.edu.cn-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:jswang@stu.pku.edu.cn)
 
-- 🔭 I am currently a third year master student at Peking University.
-- 🌱 I received my bachelor degree at University of Electronic Science and Technology of China in 2020.
+- 🔭 I’m currently a third year master student at Peking University.
+- 🌱 I’m currently focusing on foundation model and multimodal learning.
 
 <!--
 **Wolfwjs/Wolfwjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
