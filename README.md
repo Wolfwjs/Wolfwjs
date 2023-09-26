@@ -6,7 +6,7 @@
 
 🌱 Currently:
 
-Technical staff at [BAAI-Vision](https://github.com/baaivision) team, working on foundation model and intelligent embodied agents .
+Technical staff at [BAAI-Vision](https://github.com/baaivision) team, working on foundation model and intelligent embodied agents.
 
 🔭 Previously:
 
