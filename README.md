@@ -4,20 +4,14 @@
 
 [![Mail](https://img.shields.io/badge/-jswang@stu.pku.edu.cn-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:jswang@stu.pku.edu.cn)
 
-- 🔭 I’m currently a third year master student at Peking University.
-- 🌱 I’m currently focusing on foundation model and multimodal learning.
+🌱 Currently:
 
-<!--
-**Wolfwjs/Wolfwjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical staff at [BAAI-Vision](https://github.com/baaivision) team, working on foundation model and intelligent embodied agents .
 
-Here are some ideas to get you started:
+🔭 Previously:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- M.S. degree at [Peking University](https://english.pku.edu.cn/).
+- Research intern at [MSRA](https://www.msra.cn/), [Baidu Research](http://research.baidu.com/), [SenseTime](https://www.sensetime.com/en) and [DJI](https://www.robomaster.com/en-US).
+
+
+📫 Reach me for collaborations or just general questions [here](jswang1023@gmail.com).
