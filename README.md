@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<a href="https://github.com/Wolfwjs"><img align='right' src="https://github-readme-stats.vercel.app/api?username=Wolfwjs&show_icons=true"></a>
 
 [![Mail](https://img.shields.io/badge/-jswang@stu.pku.edu.cn-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:jswang@stu.pku.edu.cn)
 
